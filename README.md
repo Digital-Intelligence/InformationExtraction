@@ -10,6 +10,8 @@ https://github.com/philipperemy/Stanford-OpenIE-Python
 
 https://github.com/allenai/openie-standalone
 
+https://github.com/dair-iitd/OpenIE-standalone
+
 http://nlpprogress.com/english/relationship_extraction.html
 
 https://github.com/billy-inn/HRERE
@@ -17,3 +19,5 @@ https://github.com/billy-inn/HRERE
 https://paperswithcode.com/task/information-retrieval
 
 https://paperswithcode.com/task/relation-extraction
+
+https://paperswithcode.com/task/open-information-extraction
